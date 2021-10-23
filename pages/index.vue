@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        coming Soon.
+        Coming Soon.
       </h1>
     </div>
   </div>
